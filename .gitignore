@@ -1,0 +1,6 @@
+*.egg-info
+*.py[cod]
+.DS_Store
+/dist
+/logs
+__pycache__/
